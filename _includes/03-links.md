@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[I'm on GitHub](https://github.com/tmatason)
+[and on Twitter](https://twitter.com/tmatason)
